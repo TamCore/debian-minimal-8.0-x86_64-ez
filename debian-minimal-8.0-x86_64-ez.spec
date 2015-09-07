@@ -1,5 +1,5 @@
 # template name attributes
-%define templatename debian
+%define templatename debian-minimal
 %define templatever 8.0
 %define templatearch x86_64
 
